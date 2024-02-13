@@ -1,4 +1,4 @@
-# Qdin Project Recipes
+# Odin Project Recipes
 ## This is the first project in The Odin Project
 ### I will be posting the instructions below. 
 #### Basically this is just an example of an index.html linked to three internal page links for food recipes application start.
